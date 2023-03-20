@@ -7,6 +7,7 @@
 [![Strava Profile](https://img.shields.io/badge/Strava-Profile-informational?style=flat&logo=strava&logoColor=white&color=FC4C02)](https://www.strava.com/athletes/52933213) 
 [![Komoot Profile](https://img.shields.io/badge/Komoot-Profile-informational?style=flat&logo=komoot&logoColor=white&color=E8B800)](https://www.komoot.de/user/650061854285)
 [![Goodreads Profile](https://img.shields.io/badge/Goodreads-Profile-informational?style=flat&logo=goodreads&logoColor=white&color=3A5F9B)](https://www.goodreads.com/user/show/109006188-marcus-franzen)
+[![Spotify Podcasts](https://img.shields.io/badge/Spotify-Podcasts-informational?style=flat&logo=spotify&logoColor=white&color=1ED760)](https://open.spotify.com/playlist/7KZJnWOmjup1DWJhwePwd0?si=1e5b6c9776014f58)                      
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/marcusfranzen/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/marcus_franzen)
@@ -93,11 +94,3 @@ I am living with my wife and four kids in Prien am Chiemsee, based south of Muni
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-## Podcasts
-
-While you can have a look at my GoodReads profile regarding books, I also listen to a lot of podcasts. Here are some of my favorites:
-
-https://hubermanlab.com/
-
-<iframe src="https://marcus-franzen.github.io/marcus-franzen/podcasts.html" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
