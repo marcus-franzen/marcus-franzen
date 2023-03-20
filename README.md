@@ -2,7 +2,7 @@
 
 [![zauberware GitHub](https://img.shields.io/badge/GitHub-zauberware-informational?style=flat&logo=github&logoColor=white&color=4078c0)](https://github.com/zauberware)
 [![Stack Overflow Profile](https://img.shields.io/badge/Stack%20Overflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=F58025)](https://stackoverflow.com/users/702961/marcus-franzen)
-[![Kaggle Profile](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=20BEFF)](https://www.kaggle.com/modgod) [![Hugging Face Profile](https://img.shields.io/badge/Hugging%20Face-Profile-informational?style=flat&logo=huggingface&logoColor=white&color=EE82EE)](https://huggingface.co/marcus-franzen)
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=20BEFF)](https://www.kaggle.com/modgod) [![Hugging Face Profile](https://img.shields.io/badge/HuggingFace-Profile-informational?style=flat&logo=huggingface&logoColor=white&color=yellow)](https://huggingface.co/marcus-franzen)
 
 [![Strava Profile](https://img.shields.io/badge/Strava-Profile-informational?style=flat&logo=strava&logoColor=white&color=FC4C02)](https://www.strava.com/athletes/52933213) 
 [![Komoot Profile](https://img.shields.io/badge/Komoot-Profile-informational?style=flat&logo=komoot&logoColor=white&color=E8B800)](https://www.komoot.de/user/650061854285)
@@ -93,3 +93,11 @@ I am living with my wife and four kids in Prien am Chiemsee, based south of Muni
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+## Podcasts
+
+While you can have a look at my GoodReads profile regarding books, I also listen to a lot of podcasts. Here are some of my favorites:
+
+https://hubermanlab.com/
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/3ZQ3yfjgj2Z7ZQZ5XZ2Z7f?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
