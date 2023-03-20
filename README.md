@@ -100,4 +100,4 @@ While you can have a look at my GoodReads profile regarding books, I also listen
 
 https://hubermanlab.com/
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/3ZQ3yfjgj2Z7ZQZ5XZ2Z7f?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://marcus-franzen.github.io/marcus-franzen/podcasts.html" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
