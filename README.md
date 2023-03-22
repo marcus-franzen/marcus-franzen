@@ -67,6 +67,7 @@ I am living with my wife and four kids in Prien am Chiemsee, based south of Muni
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![rspec](https://img.shields.io/badge/-rspec-CC0000?style=flat-square&logo=rspec&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat-square&logo=langchain&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![FastAI](https://img.shields.io/badge/-FastAI-000000?style=flat-square&logo=fastai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
